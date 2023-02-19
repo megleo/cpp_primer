@@ -1,0 +1,2 @@
+/usr/bin/ar qc ../../archive/libmytest.a  CMakeFiles/mytest.dir/src/cha7_test.cpp.o
+/usr/bin/ranlib ../../archive/libmytest.a

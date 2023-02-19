@@ -1,0 +1,5 @@
+project(main_exe)
+aux_source_directory(. EXAMPLE_SRC)
+add_executable(${PROJECT_NAME} ${EXAMPLE_SRC})
+set(CMAKE_BINARY_DIR ${PROJECT_SOURCE_DIR}/bin)
+target_link_libraries(${PROJECT_NAME} chapter mytest)

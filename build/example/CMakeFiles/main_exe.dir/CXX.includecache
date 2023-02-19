@@ -1,0 +1,32 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+../chapter/include/cha7.h
+string
+-
+iostream
+-
+
+../test/./include/cha7_test.h
+cha7.h
+../test/./include/cha7.h
+string
+-
+iostream
+-
+
+/home/ts/vscode/my_Cpp_Primer_Practice/example/main.cpp
+iostream
+-
+cha7.h
+/home/ts/vscode/my_Cpp_Primer_Practice/example/cha7.h
+string
+-
+cha7_test.h
+-
+

@@ -1,0 +1,1 @@
+/usr/bin/c++     CMakeFiles/main_exe.dir/main.cpp.o  -o ../../bin/main_exe -Wl,-rpath,/home/ts/vscode/my_Cpp_Primer_Practice/lib ../../archive/libmytest.a ../../lib/libchapter.so 

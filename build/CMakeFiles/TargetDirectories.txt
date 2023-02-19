@@ -1,0 +1,11 @@
+/home/ts/vscode/my_Cpp_Primer_Practice/build/CMakeFiles/rebuild_cache.dir
+/home/ts/vscode/my_Cpp_Primer_Practice/build/CMakeFiles/edit_cache.dir
+/home/ts/vscode/my_Cpp_Primer_Practice/build/example/CMakeFiles/rebuild_cache.dir
+/home/ts/vscode/my_Cpp_Primer_Practice/build/example/CMakeFiles/main_exe.dir
+/home/ts/vscode/my_Cpp_Primer_Practice/build/example/CMakeFiles/edit_cache.dir
+/home/ts/vscode/my_Cpp_Primer_Practice/build/test/CMakeFiles/rebuild_cache.dir
+/home/ts/vscode/my_Cpp_Primer_Practice/build/test/CMakeFiles/mytest.dir
+/home/ts/vscode/my_Cpp_Primer_Practice/build/test/CMakeFiles/edit_cache.dir
+/home/ts/vscode/my_Cpp_Primer_Practice/build/chapter/CMakeFiles/rebuild_cache.dir
+/home/ts/vscode/my_Cpp_Primer_Practice/build/chapter/CMakeFiles/chapter.dir
+/home/ts/vscode/my_Cpp_Primer_Practice/build/chapter/CMakeFiles/edit_cache.dir
